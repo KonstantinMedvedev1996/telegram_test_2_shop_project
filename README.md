@@ -1,0 +1,2 @@
+# telegram_test_2_shop_project
+telegram-bot_for_simple_shop
