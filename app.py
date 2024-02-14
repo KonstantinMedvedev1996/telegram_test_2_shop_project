@@ -10,7 +10,8 @@ from logging import basicConfig, INFO
 from data.config import ADMINS
 from loader import dp, db, bot
 
-from handlers import *
+import handlers
+# from handlers import admin
 
 user_message = 'Пользователь'
 admin_message = 'Админ'
