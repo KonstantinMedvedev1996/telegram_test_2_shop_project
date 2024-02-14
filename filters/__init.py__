@@ -1,0 +1,2 @@
+from .is_admin import isAdmin
+from .is_user import isUser
